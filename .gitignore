@@ -1,0 +1,6 @@
+.env
+secrets.h
+__pycache__/
+*.pyc
+iot_api.log
+.vscode/
